@@ -96,5 +96,5 @@ scraper-dev/
 
 ## 📜 License
 
-MIT License.
+MIT License
 
