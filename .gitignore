@@ -1,2 +1,20 @@
-.envrc
-.envrc
+# Ignore .envrc
+*.envrc
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore static binaries (no longer needed)
+static_browser/
+
+# Ignore editor/OS noise
+.vscode/
+.DS_Store
+
+# Ignore nix garbage
+result/
+*.drv
+*.log
+
