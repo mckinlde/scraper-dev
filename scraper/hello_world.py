@@ -1,6 +1,6 @@
 # scraper/hello_world.py
 
-from scraper.browser import get_driver
+from scraper.headless_browser import get_driver
 
 def main():
     driver = get_driver()
